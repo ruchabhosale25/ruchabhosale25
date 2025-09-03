@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vivek Singh</h1>
+<h3 align="center">Data Analyst | Excel | SQL | Power BI | Tableau | Python</h3>
 
-<!--
-**ruchabhosale25/ruchabhosale25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me  
+- 📊 Learning **Data Analytics & Data Visualization**  
+- 🐍 Exploring **Python, Excel, Power BI, and Tableau**  
+- 🚀 Currently practicing **Python & Data Analysis libraries**  
+- 🏐 Love to play **volleyball**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/data.gif" width="300"/>
+</p>
+
+---
+
+## ⚙️ Tools & Technologies  
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/60/microsoft-excel-2019--v1.png" width="60"/><br><b>Excel</b></td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/><br><b>MySQL</b></td>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/60/power-bi.png" width="60"/><br><b>Power BI</b></td>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/60/tableau-software.png" width="60"/><br><b>Tableau</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/><br><b>Python</b></td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/><br><b>NumPy</b></td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/><br><b>Pandas</b></td>
+    <td align="center" width="120"><img src="https://matplotlib.org/stable/_static/logo2.svg" width="60"/><br><b>Matplotlib</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="60"/><br><b>Seaborn</b></td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60"/><br><b>VS Code</b></td>
+    <td align="center" width="120"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/><br><b>Jupyter</b></td>
+    <td align="center" width="120"><img src="https://img.icons8.com/color/60/amazon-web-services.png" width="60"/><br><b>AWS</b></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 📊 GitHub Stats & Commit Activity  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=viveksingh052&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viveksingh052&theme=radical" height="160" />
+</p>
+
+<!-- Commit-only activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viveksingh052&custom_title=Commit%20Activity&hide=issues,prs&area=true&line=ff6ec7&point=ffffff&title_color=ff6ec7&color=00eaff&bg_color=0d1117&y_axis_label=Commits%20Count" alt="GitHub Commit Graph" />
+</p>
+
+---
+
+## 🤝 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/viveksingh52/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" /></a>
+  <a href="mailto:vivekvs2927@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" width="45" height="45" /></a>
+</p>
