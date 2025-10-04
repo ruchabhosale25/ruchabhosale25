@@ -1,5 +1,5 @@
 <h1 align="center">
-  🚀 Hi, I'm <span style="color:#00E7FF;">Rucha Bhosle</span>
+  🚀 Hi, I'm <span style="color:#00E7FF;">Rucha Bhosale</span>
 </h1>
 <h3 align="center">✨ Data Analyst | Excel | SQL | Power BI | Tableau | Python ✨</h3>
 
