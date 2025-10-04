@@ -10,7 +10,7 @@
 💡 Learning **Data Analytics & Data Visualization**  
 ⚡ Exploring **Python, Excel, Power BI, Tableau**  
 🚀 Practicing **Python & Data Analysis Libraries**  
-🏐 Love to play **Volleyball**
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/data.gif" width="300"/>
